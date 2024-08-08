@@ -72,6 +72,9 @@ sections:
       type: Badge
       label: This is a badge
       color: text-primary
+      styles:
+        self:
+          fontWeight: 700
 slug: newpageempty
 isDraft: false
 seo:
